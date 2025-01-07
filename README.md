@@ -1,4 +1,4 @@
-# VivaReal Scrapper
+# vivareal-filter-realestate-scrapper
 Este projeto tem como objetivo ajudar na procura de apartamentos dentro do website [VivaReal](https://www.vivareal.com.br).
 
 No site, geralmente aparecem muitos resultados e não há forma de filtrar os imóveis que não nos servem. Com essa necessidade, surgiu este projeto.

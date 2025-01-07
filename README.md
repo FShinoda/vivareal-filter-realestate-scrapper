@@ -23,7 +23,7 @@ $ git clone https://github.com/FShinoda/vivareal-scrapper.git
 ### 2 - Vá no site do VivaReal 
 Vá para o site e pesquise como faria normalmente a localização desejada junto com suas outras necessidades de filtro.
 
-![Exemplo de busca](./example/searchExemple.PNG)
+![Exemplo de busca](./example/searchExemple.png)
 
 ### 3 - Copie o link gerado
 Após finalizada a inserção dos filtros, a página irá atualizar automaticamente. Com isso, um novo link na barra de pesquisa aparecerá. Copie o mesmo.

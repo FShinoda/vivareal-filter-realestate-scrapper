@@ -1,4 +1,4 @@
-# VivaReal Scrapper
+# vivareal-filter-realestate-scrapper
 Este projeto tem como objetivo ajudar na procura de apartamentos dentro do website [VivaReal](https://www.vivareal.com.br).
 
 No site, geralmente aparecem muitos resultados e não há forma de filtrar os imóveis que não nos servem. Com essa necessidade, surgiu este projeto.
@@ -14,7 +14,7 @@ Abaixo, segue o passo-a-passo de como utilizar este projeto.
 Isso serve para baixar os arquivos deste projeto para sua máquina.
 Abra o cmd (prompt de comando) ou o bash no local em que se deseja colocar a pasta do projeto e rode o comando abaixo.
 
-![Exemplo de como abrir o Bash](./example/openBashExample.PNG)
+![Exemplo de como abrir o Bash](./example/openBashExample.png)
 
 ```bash
 $ git clone https://github.com/FShinoda/vivareal-scrapper.git

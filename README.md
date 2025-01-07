@@ -14,7 +14,7 @@ Abaixo, segue o passo-a-passo de como utilizar este projeto.
 Isso serve para baixar os arquivos deste projeto para sua máquina.
 Abra o cmd (prompt de comando) ou o bash no local em que se deseja colocar a pasta do projeto e rode o comando abaixo.
 
-![Exemplo de como abrir o Bash](./example/openBashExample.PNG)
+![Exemplo de como abrir o Bash](./example/openBashExample.png)
 
 ```bash
 $ git clone https://github.com/FShinoda/vivareal-scrapper.git

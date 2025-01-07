@@ -1,0 +1,5 @@
+Siga o exemplo abaixo ao inserir os links dos imóveis. Depois apague esta linha e deixe apenas os links. Lembre-se de separá-los por quebra de linha.
+https://www.vivareal.com.br/imovel/apartamento-1/
+https://www.vivareal.com.br/imovel/apartamento-2/
+https://www.vivareal.com.br/imovel/apartamento-3/
+https://www.vivareal.com.br/imovel/apartamento-4/

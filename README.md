@@ -68,7 +68,13 @@ Adicionado os links a serem filtrados, note que depois será preciso rodar novam
 2. Colocar os indesejados em `apartmentBlockList.txt`;
 3. Quando desejar um novo e filtrado `apartmentList.txt`, rodar novamente o script;
 
-Boas buscas! Espero ter ajudado. Qualquer ajuda, me mande uma mensagem por algum dos canais de contato no [meu perfil](https://github.com/FShinoda).
+Boas buscas! Espero ter ajudado :blush:
+<br>Caso precise de alguma ajuda, me mande uma mensagem por algum dos canais de contato no [meu perfil](https://github.com/FShinoda).
 
 ## :warning: Disclaimer 
 Esse foi um projeto para uso pontual e pessoal, a atualização do mesmo não está garantida, portanto idem para seu funcionamento.
+
+Caso queira fazer algum projeto em cima desse, fique à vontade, só peço que, se for possível, dê créditos pela inspiração.
+
+## :copyright: Licença
+GNU GPLv3 - GNU General Public License v3.0
